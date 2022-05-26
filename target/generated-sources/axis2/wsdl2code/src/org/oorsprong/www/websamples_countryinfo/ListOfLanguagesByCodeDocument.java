@@ -17,7 +17,7 @@ package org.oorsprong.www.websamples_countryinfo;
 public interface ListOfLanguagesByCodeDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfLanguagesByCodeDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("listoflanguagesbycode2859doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfLanguagesByCodeDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("listoflanguagesbycode2859doctype");
     
     /**
      * Gets the "ListOfLanguagesByCode" element
@@ -42,7 +42,7 @@ public interface ListOfLanguagesByCodeDocument extends org.apache.xmlbeans.XmlOb
     public interface ListOfLanguagesByCode extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfLanguagesByCode.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("listoflanguagesbycode87afelemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfLanguagesByCode.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("listoflanguagesbycode87afelemtype");
         
         /**
          * A factory class with static methods for creating instances

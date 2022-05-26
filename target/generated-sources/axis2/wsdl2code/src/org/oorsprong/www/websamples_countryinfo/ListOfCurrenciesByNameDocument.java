@@ -17,7 +17,7 @@ package org.oorsprong.www.websamples_countryinfo;
 public interface ListOfCurrenciesByNameDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfCurrenciesByNameDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("listofcurrenciesbyname2627doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfCurrenciesByNameDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("listofcurrenciesbyname2627doctype");
     
     /**
      * Gets the "ListOfCurrenciesByName" element
@@ -42,7 +42,7 @@ public interface ListOfCurrenciesByNameDocument extends org.apache.xmlbeans.XmlO
     public interface ListOfCurrenciesByName extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfCurrenciesByName.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("listofcurrenciesbynamea3a5elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfCurrenciesByName.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("listofcurrenciesbynamea3a5elemtype");
         
         /**
          * A factory class with static methods for creating instances

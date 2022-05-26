@@ -17,7 +17,7 @@ package org.oorsprong.www.websamples_countryinfo;
 public interface FullCountryInfoAllCountriesResponseDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(FullCountryInfoAllCountriesResponseDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("fullcountryinfoallcountriesresponsed578doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(FullCountryInfoAllCountriesResponseDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("fullcountryinfoallcountriesresponsed578doctype");
     
     /**
      * Gets the "FullCountryInfoAllCountriesResponse" element
@@ -42,7 +42,7 @@ public interface FullCountryInfoAllCountriesResponseDocument extends org.apache.
     public interface FullCountryInfoAllCountriesResponse extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(FullCountryInfoAllCountriesResponse.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("fullcountryinfoallcountriesresponse8e6delemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(FullCountryInfoAllCountriesResponse.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("fullcountryinfoallcountriesresponse8e6delemtype");
         
         /**
          * Gets the "FullCountryInfoAllCountriesResult" element

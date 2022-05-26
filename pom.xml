@@ -55,8 +55,8 @@
                       <wsdlUrl>http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL</wsdlUrl>
                   </wsdlUrls>
                   <keep>true</keep>
-                  <packageName>ws</packageName>
-                  <sourceDestDir>src/main/java/org/webservices/oorsprong/ws</sourceDestDir>
+                  <packageName>org.webservices.oorsprong.ws</packageName>
+                  <sourceDestDir>src/main/java</sourceDestDir>
               </configuration>
           </plugin>
       </plugins>

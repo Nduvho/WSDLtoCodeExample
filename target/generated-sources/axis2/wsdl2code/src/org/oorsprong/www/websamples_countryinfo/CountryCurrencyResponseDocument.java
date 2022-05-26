@@ -17,7 +17,7 @@ package org.oorsprong.www.websamples_countryinfo;
 public interface CountryCurrencyResponseDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryCurrencyResponseDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("countrycurrencyresponse56b7doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryCurrencyResponseDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("countrycurrencyresponse56b7doctype");
     
     /**
      * Gets the "CountryCurrencyResponse" element
@@ -42,7 +42,7 @@ public interface CountryCurrencyResponseDocument extends org.apache.xmlbeans.Xml
     public interface CountryCurrencyResponse extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryCurrencyResponse.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("countrycurrencyresponse112belemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryCurrencyResponse.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("countrycurrencyresponse112belemtype");
         
         /**
          * Gets the "CountryCurrencyResult" element

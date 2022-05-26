@@ -17,7 +17,7 @@ package org.oorsprong.www.websamples_countryinfo;
 public interface ListOfLanguagesByNameResponseDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfLanguagesByNameResponseDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("listoflanguagesbynameresponseb458doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfLanguagesByNameResponseDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("listoflanguagesbynameresponseb458doctype");
     
     /**
      * Gets the "ListOfLanguagesByNameResponse" element
@@ -42,7 +42,7 @@ public interface ListOfLanguagesByNameResponseDocument extends org.apache.xmlbea
     public interface ListOfLanguagesByNameResponse extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfLanguagesByNameResponse.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("listoflanguagesbynameresponse5cadelemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfLanguagesByNameResponse.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("listoflanguagesbynameresponse5cadelemtype");
         
         /**
          * Gets the "ListOfLanguagesByNameResult" element

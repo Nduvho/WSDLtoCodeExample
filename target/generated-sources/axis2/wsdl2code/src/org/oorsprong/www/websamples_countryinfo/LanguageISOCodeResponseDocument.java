@@ -17,7 +17,7 @@ package org.oorsprong.www.websamples_countryinfo;
 public interface LanguageISOCodeResponseDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(LanguageISOCodeResponseDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("languageisocoderesponse098adoctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(LanguageISOCodeResponseDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("languageisocoderesponse098adoctype");
     
     /**
      * Gets the "LanguageISOCodeResponse" element
@@ -42,7 +42,7 @@ public interface LanguageISOCodeResponseDocument extends org.apache.xmlbeans.Xml
     public interface LanguageISOCodeResponse extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(LanguageISOCodeResponse.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("languageisocoderesponsec511elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(LanguageISOCodeResponse.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("languageisocoderesponsec511elemtype");
         
         /**
          * Gets the "LanguageISOCodeResult" element

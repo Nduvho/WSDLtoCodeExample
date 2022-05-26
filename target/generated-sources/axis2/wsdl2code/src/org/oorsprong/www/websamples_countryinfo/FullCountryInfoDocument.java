@@ -17,7 +17,7 @@ package org.oorsprong.www.websamples_countryinfo;
 public interface FullCountryInfoDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(FullCountryInfoDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("fullcountryinfo43e4doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(FullCountryInfoDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("fullcountryinfo43e4doctype");
     
     /**
      * Gets the "FullCountryInfo" element
@@ -42,7 +42,7 @@ public interface FullCountryInfoDocument extends org.apache.xmlbeans.XmlObject
     public interface FullCountryInfo extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(FullCountryInfo.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("fullcountryinfodf45elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(FullCountryInfo.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("fullcountryinfodf45elemtype");
         
         /**
          * Gets the "sCountryISOCode" element

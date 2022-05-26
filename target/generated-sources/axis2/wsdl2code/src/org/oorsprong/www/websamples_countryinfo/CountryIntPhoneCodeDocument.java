@@ -17,7 +17,7 @@ package org.oorsprong.www.websamples_countryinfo;
 public interface CountryIntPhoneCodeDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryIntPhoneCodeDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("countryintphonecodeb711doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryIntPhoneCodeDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("countryintphonecodeb711doctype");
     
     /**
      * Gets the "CountryIntPhoneCode" element
@@ -42,7 +42,7 @@ public interface CountryIntPhoneCodeDocument extends org.apache.xmlbeans.XmlObje
     public interface CountryIntPhoneCode extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryIntPhoneCode.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("countryintphonecode54dfelemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryIntPhoneCode.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("countryintphonecode54dfelemtype");
         
         /**
          * Gets the "sCountryISOCode" element

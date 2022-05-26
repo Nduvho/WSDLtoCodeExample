@@ -17,7 +17,7 @@ package org.oorsprong.www.websamples_countryinfo;
 public interface CountryFlagDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryFlagDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("countryflagc631doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryFlagDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("countryflagc631doctype");
     
     /**
      * Gets the "CountryFlag" element
@@ -42,7 +42,7 @@ public interface CountryFlagDocument extends org.apache.xmlbeans.XmlObject
     public interface CountryFlag extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryFlag.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("countryflag7a1felemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryFlag.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("countryflag7a1felemtype");
         
         /**
          * Gets the "sCountryISOCode" element

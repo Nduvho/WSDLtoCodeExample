@@ -17,7 +17,7 @@ package org.oorsprong.www.websamples_countryinfo;
 public interface ListOfContinentsByNameResponseDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfContinentsByNameResponseDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("listofcontinentsbynameresponsea658doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfContinentsByNameResponseDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("listofcontinentsbynameresponsea658doctype");
     
     /**
      * Gets the "ListOfContinentsByNameResponse" element
@@ -42,7 +42,7 @@ public interface ListOfContinentsByNameResponseDocument extends org.apache.xmlbe
     public interface ListOfContinentsByNameResponse extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfContinentsByNameResponse.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("listofcontinentsbynameresponse3ec5elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfContinentsByNameResponse.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("listofcontinentsbynameresponse3ec5elemtype");
         
         /**
          * Gets the "ListOfContinentsByNameResult" element

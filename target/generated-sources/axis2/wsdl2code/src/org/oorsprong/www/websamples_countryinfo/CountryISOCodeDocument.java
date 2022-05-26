@@ -17,7 +17,7 @@ package org.oorsprong.www.websamples_countryinfo;
 public interface CountryISOCodeDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryISOCodeDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("countryisocodec8bddoctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryISOCodeDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("countryisocodec8bddoctype");
     
     /**
      * Gets the "CountryISOCode" element
@@ -42,7 +42,7 @@ public interface CountryISOCodeDocument extends org.apache.xmlbeans.XmlObject
     public interface CountryISOCode extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryISOCode.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("countryisocode5165elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryISOCode.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("countryisocode5165elemtype");
         
         /**
          * Gets the "sCountryName" element

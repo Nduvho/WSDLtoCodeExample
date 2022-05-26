@@ -17,7 +17,7 @@ package org.oorsprong.www.websamples_countryinfo;
 public interface CountryFlagResponseDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryFlagResponseDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("countryflagresponse9f92doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryFlagResponseDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("countryflagresponse9f92doctype");
     
     /**
      * Gets the "CountryFlagResponse" element
@@ -42,7 +42,7 @@ public interface CountryFlagResponseDocument extends org.apache.xmlbeans.XmlObje
     public interface CountryFlagResponse extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryFlagResponse.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("countryflagresponse5f21elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CountryFlagResponse.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("countryflagresponse5f21elemtype");
         
         /**
          * Gets the "CountryFlagResult" element

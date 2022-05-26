@@ -17,7 +17,7 @@ package org.oorsprong.www.websamples_countryinfo;
 public interface LanguageNameDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(LanguageNameDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("languagename1f64doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(LanguageNameDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("languagename1f64doctype");
     
     /**
      * Gets the "LanguageName" element
@@ -42,7 +42,7 @@ public interface LanguageNameDocument extends org.apache.xmlbeans.XmlObject
     public interface LanguageName extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(LanguageName.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("languagenamef4c5elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(LanguageName.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s900B59590CF882B5950BB311352F74E5").resolveHandle("languagenamef4c5elemtype");
         
         /**
          * Gets the "sISOCode" element
