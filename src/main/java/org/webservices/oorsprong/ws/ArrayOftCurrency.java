@@ -35,7 +35,7 @@ import javax.xml.bind.annotation.XmlType;
 public class ArrayOftCurrency {
 
     @XmlElement(nillable = true)
-    protected List<TCurrency> tCurrency;
+    public List<TCurrency> tCurrency;
 
     /**
      * Gets the value of the tCurrency property.
