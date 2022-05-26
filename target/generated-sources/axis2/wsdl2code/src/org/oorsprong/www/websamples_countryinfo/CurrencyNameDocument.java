@@ -17,7 +17,7 @@ package org.oorsprong.www.websamples_countryinfo;
 public interface CurrencyNameDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CurrencyNameDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s1F77A0D3DDFB79C1896CAD5EC21E951C").resolveHandle("currencynamec19ddoctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CurrencyNameDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("currencynamec19ddoctype");
     
     /**
      * Gets the "CurrencyName" element
@@ -42,7 +42,7 @@ public interface CurrencyNameDocument extends org.apache.xmlbeans.XmlObject
     public interface CurrencyName extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CurrencyName.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s1F77A0D3DDFB79C1896CAD5EC21E951C").resolveHandle("currencyname1ba5elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CurrencyName.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("currencyname1ba5elemtype");
         
         /**
          * Gets the "sCurrencyISOCode" element

@@ -17,7 +17,7 @@ package org.oorsprong.www.websamples_countryinfo;
 public interface CapitalCityResponseDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CapitalCityResponseDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s1F77A0D3DDFB79C1896CAD5EC21E951C").resolveHandle("capitalcityresponsec363doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CapitalCityResponseDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("capitalcityresponsec363doctype");
     
     /**
      * Gets the "CapitalCityResponse" element
@@ -42,7 +42,7 @@ public interface CapitalCityResponseDocument extends org.apache.xmlbeans.XmlObje
     public interface CapitalCityResponse extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CapitalCityResponse.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s1F77A0D3DDFB79C1896CAD5EC21E951C").resolveHandle("capitalcityresponse8403elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(CapitalCityResponse.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("capitalcityresponse8403elemtype");
         
         /**
          * Gets the "CapitalCityResult" element

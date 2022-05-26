@@ -17,7 +17,7 @@ package org.xmlsoap.schemas.soap.encoding;
 public interface ArrayDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ArrayDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s1F77A0D3DDFB79C1896CAD5EC21E951C").resolveHandle("array2abddoctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ArrayDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("array2abddoctype");
     
     /**
      * Gets the "Array" element

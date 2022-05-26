@@ -17,7 +17,7 @@ package org.oorsprong.www.websamples_countryinfo;
 public interface ListOfCountryNamesByCodeDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfCountryNamesByCodeDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s1F77A0D3DDFB79C1896CAD5EC21E951C").resolveHandle("listofcountrynamesbycodeb6acdoctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfCountryNamesByCodeDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("listofcountrynamesbycodeb6acdoctype");
     
     /**
      * Gets the "ListOfCountryNamesByCode" element
@@ -42,7 +42,7 @@ public interface ListOfCountryNamesByCodeDocument extends org.apache.xmlbeans.Xm
     public interface ListOfCountryNamesByCode extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfCountryNamesByCode.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s1F77A0D3DDFB79C1896CAD5EC21E951C").resolveHandle("listofcountrynamesbycode24c5elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ListOfCountryNamesByCode.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s3EE92FFBC669E2CE207FC1FA7C27FC68").resolveHandle("listofcountrynamesbycode24c5elemtype");
         
         /**
          * A factory class with static methods for creating instances
